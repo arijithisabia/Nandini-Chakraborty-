@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+.poster{
+    text-align: center;
+    h1{
+        color: white;
+        font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight:bolder;
+        font-style: normal;
+    }
+    p{
+        color: whitesmoke;
+        font-weight:200;
+        text-align: center;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    h2{
+        color:azure;
+        text-align: end;
+        font-size: small;
+        font-family:monospace;
+    }
+
+}
+.img{
+    border: 5px solid white;
+    margin-top: 100px;
+    padding: 10px;
+}
